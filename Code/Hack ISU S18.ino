@@ -78,17 +78,5 @@ void loop() {
     delay(10);
     buttonBaseRightState = digitalRead(buttonPinBaseRight);
   }
-//  for(pos1=0; pos1 <= 180; pos1++)
-//  {
-//    myservo1.write(pos1);
-//    myservoBase.write(pos1);
-//    delay(15);
-//  }
-//  for(pos1 = 180; pos1>0; pos1--)
-//  {
-//    myservo1.write(pos1);
-//    myservoBase.write(pos1);
-//    delay(15);
-//  }
  
 }
