@@ -2,6 +2,8 @@
 #include <Time.h>
 #include <Servo.h>
 
+***@author Andrew Holman (the friend)***
+
 const int buttonPinBaseLeft = 2;
 const int buttonPinBaseRight = 3;
 const int buttonPinSwitch = 4;
