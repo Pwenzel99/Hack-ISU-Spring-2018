@@ -1,8 +1,0 @@
-For Wiring:
-https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors/overview
-
-For adding different Arduino Boards:
-https://www.arduino.cc/en/Guide/Cores
-
-For Building:
-https://circuitdigest.com/microcontroller-projects/diy-arduino-robotic-arm-tutorial
